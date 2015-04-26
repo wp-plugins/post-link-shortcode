@@ -3,7 +3,7 @@ Contributors: michoch
 Donate link: http://wordpressfoundation.org/donate/
 Tags: api, link, links, navigation, page, pages, permalink, permalink, post, posts, shortcode
 Requires at least: 2.5
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
